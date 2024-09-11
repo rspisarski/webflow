@@ -256,8 +256,6 @@ function fadeUpOnScroll() {
   });
 }
 
-console.log('file edited);
-
 // Call the function to initialize animations for elements with data-g-fade-up
 window.addEventListener("DOMContentLoaded", () => {
   fadeUpOnScroll();
